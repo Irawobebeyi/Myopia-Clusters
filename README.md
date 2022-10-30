@@ -1,3 +1,4 @@
+![images](https://user-images.githubusercontent.com/107362585/198894468-2853947d-e73f-429f-a93e-c6c4589a31c0.png)
 # Myopia Clusters
 
 In this assignment, you’ll apply what you learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, you’ll create a visualization that shares your findings. 
